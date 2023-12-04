@@ -3,7 +3,7 @@ package com.ms.email.dtos;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 
-public class EmailDto {
+public class EmailDto {// (Objeto de Transferência de Dados)
 
 	@NotBlank // define como não nulo.
     private String ownerRef; // Referência do proprietário que enviou o e-mail.
