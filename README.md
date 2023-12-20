@@ -12,3 +12,15 @@ Este é um microsserviço desenvolvido em Spring Boot para realizar o envio de e
 Clone este repositório.
 
 Configure as propriedades do servidor de e-mail no arquivo application.properties.
+
+<h3>Tecnologias utilizadas:</h3>
+
+`-Java`
+
+`-PostgreSQL`
+
+`-Spring`
+
+`-Apache Maven`
+
+`-Eclipse`
