@@ -3,7 +3,7 @@ Este é um microsserviço desenvolvido em Spring Boot para realizar o envio de e
 
 ## Pré-requisitos
 
-- Java 11 ou superior
+- Java 17 ou superior
 - Maven
 - Configurações de servidor de e-mail (SMTP, por exemplo) no arquivo de propriedades.
 
